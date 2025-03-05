@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dc4a00-3cfe-4674-870f-9ea7c1d13abb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_programs/Q2_ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_programs/Q3_PrintEvenDigitsFromNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_programs/Q4_SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L4_ArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/L1_DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/L1_DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/L2_ControlStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/L2_ControlStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L3_Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/L3_Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L4_ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/L4_ArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
