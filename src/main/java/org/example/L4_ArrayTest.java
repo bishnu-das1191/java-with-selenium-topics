@@ -94,21 +94,5 @@ public class L4_ArrayTest {
         System.out.println(Arrays.deepToString(a2dArr));
         System.out.println();
 
-        //Java Topics :
-        // DataTypes - Done
-        // loops (do while, while, for, for each), 'break' and 'continue' keywords - Done
-        // 1D Array and 2D Array - Done
-        // Class and Objects - Done
-        // Access modifiers
-        // Constructor, 'super' and 'this' keyword
-        // OOPS (Inheritance, Polymorphism, Encapsulation, Abstraction, Interface)
-        // String, StringBuilder, StringBuffer
-        // Exceptional Handling
-        // Custom Exception Class
-        // Collections (List, SET, MAP, TreeSet, TreeMap)
-        // Sorting Techniques
-
-
-
     }
 }

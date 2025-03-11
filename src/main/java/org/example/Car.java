@@ -3,9 +3,9 @@ package org.example;
 public class Car {
 
     // instance data members
-    String color;
-    String brand;
-    int airBagsCount;
+    private String color;
+    private String brand;
+    private int airBagsCount;
 
     // constructor
     public Car(String color, String brand, int airBagsCount) {
