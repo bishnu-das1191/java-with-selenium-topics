@@ -5,7 +5,7 @@
         // Class and Objects - Done
         // Access modifiers
         // Constructor, constructor chaining  'super', super() and 'this' keyword, this()
-        // OOPS (Inheritance, Polymorphism, Encapsulation, Abstraction, Interface)
+        // OOPS (Inheritance, Polymorphism, Encapsulation, Abstraction [Abstract Class, Interface])
         // String, StringBuilder, StringBuffer
         // Exceptional Handling
         // Custom Exception Class
