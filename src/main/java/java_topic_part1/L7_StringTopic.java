@@ -1,4 +1,4 @@
-package org.example;
+package java_topic_part1;
 
 import java.util.Arrays;
 

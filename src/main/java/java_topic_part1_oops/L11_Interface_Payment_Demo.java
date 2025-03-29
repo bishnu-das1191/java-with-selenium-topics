@@ -1,4 +1,4 @@
-package oops;
+package java_topic_part1_oops;
 
 public class L11_Interface_Payment_Demo {
     public static void main(String[] args) {

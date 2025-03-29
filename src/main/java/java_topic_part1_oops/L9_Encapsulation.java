@@ -1,4 +1,4 @@
-package oops;
+package java_topic_part1_oops;
 
 public class L9_Encapsulation {
     public static void main(String[] args) {

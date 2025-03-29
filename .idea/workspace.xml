@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dc4a00-3cfe-4674-870f-9ea7c1d13abb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L8_ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_topic_collection_topics/L1_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_topic_collection_topics/L2_SET.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L10_Interface_Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L10_Interface_Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L11_Interface_Payment_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L11_Interface_Payment_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L12_Super_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L12_Super_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L1_Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L1_Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L2_programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L2_programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L3_Polymorphism_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L3_Polymorphism_overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L4_Polymorphism_overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L4_Polymorphism_overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L5_Abstraction_Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L5_Abstraction_Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L6_Abstraction_FullTimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L6_Abstraction_FullTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L7_Abstraction_Contractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L7_Abstraction_Contractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L8_AbstractionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L8_AbstractionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oops/L9_Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1_oops/L9_Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DummyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/DummyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L1_DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L1_DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L2_ControlStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L2_ControlStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L3_Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L3_Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L4_ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L4_ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L5_AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L5_AccessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L6_Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L6_Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L7_StringTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L7_StringTopic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/L8_ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_topic_part1/L8_ExceptionHandling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +67,13 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NullPointerExceptionTest">
-    <configuration name="ExceptionTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ExceptionTesting" />
+  <component name="RunManager" selected="Application.L2_SET">
+    <configuration name="L1_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_topic_collection_topics.L1_List" />
       <module name="preety-101-automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="java_topic_collection_topics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L7_StringTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.L7_StringTopic" />
+    <configuration name="L2_SET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_topic_collection_topics.L2_SET" />
       <module name="preety-101-automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="java_topic_collection_topics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L2_SET" />
+        <item itemvalue="Application.L1_List" />
         <item itemvalue="Application.NullPointerExceptionTest" />
         <item itemvalue="Application.ThrowException" />
         <item itemvalue="Application.L8_ExceptionHandling" />
-        <item itemvalue="Application.ExceptionTesting" />
-        <item itemvalue="Application.L7_StringTopic" />
       </list>
     </recent_temporary>
   </component>

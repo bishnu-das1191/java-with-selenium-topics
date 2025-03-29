@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Scanner;
+package java_topic_part1;
 
 public class L2_ControlStatement {
     public static void main(String[] args) {

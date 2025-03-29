@@ -1,4 +1,4 @@
-package org.example;
+package java_topic_part1;
 
 public class L6_Constructors {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oops;
+package java_topic_part1_oops;
 
 public class L6_Abstraction_FullTimeEmployee extends L5_Abstraction_Employee{
 

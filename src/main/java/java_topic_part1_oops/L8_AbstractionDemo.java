@@ -1,4 +1,4 @@
-package oops;
+package java_topic_part1_oops;
 
 public class L8_AbstractionDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oops;
+package java_topic_part1_oops;
 
 public class L7_Abstraction_Contractor  extends L5_Abstraction_Employee{
 
